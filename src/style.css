@@ -1,0 +1,27 @@
+h1 {
+  font-size: 50px;
+}
+
+.frame {
+  margin: 50px auto;
+  padding: 50px;
+  background: #8ed2c9;
+  border-radius: 40px;
+  width: 70%;
+  min-width: 600px;
+  color: #046861;
+}
+.currentTemp {
+  font-size: 50px;
+}
+.units {
+  position: relative;
+  bottom: 22px;
+}
+.todayWeather {
+  text-align: center;
+}
+.emoji {
+  font-size: 60px;
+  color: #fcf4d9;
+}
